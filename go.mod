@@ -1,3 +1,3 @@
-module github.com/skeptycal/gorepos/constraints
+module github.com/skeptycal/constraints
 
 go 1.18
