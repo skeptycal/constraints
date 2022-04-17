@@ -1,0 +1,14 @@
+package constraints // import "github.com/skeptycal/gorepos/constraints"
+
+Package constraints defines a set of useful constraints to be used with type
+parameters.
+
+type Comparable interface{ ... }
+type Complex interface{ ... }
+type Float interface{ ... }
+type Integer interface{ ... }
+type Number interface{ ... }
+type Ordered interface{ ... }
+type Real interface{ ... }
+type Signed interface{ ... }
+type Unsigned interface{ ... }
